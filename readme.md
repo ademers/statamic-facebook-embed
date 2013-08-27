@@ -21,8 +21,8 @@ To learn more, check out the Facebook developers [Embedded Posts documentation](
 
 This is the URL of the public Facebook Post you wish to embed.
 
-For example: `https://www.facebook.com/andrea.demers/posts/10152162695469815`
+For example: `https://www.facebook.com/andrea.demers/posts/10152163567674815`
 
 ### Example
 
-    {{ facebook_embed:post url="https://www.facebook.com/andrea.demers/posts/10152162695469815" }}
+    {{ facebook_embed:post url="https://www.facebook.com/andrea.demers/posts/10152163567674815" }}
