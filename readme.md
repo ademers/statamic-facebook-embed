@@ -2,6 +2,8 @@
 
 This plugin allows you to quickly & easily embed public Facebook Posts.
 
+You can [see it in action](http://andreademers.com/statamic-facebook-embed-plugin) on my personal site, andreademers.com.
+
 To learn more, check out the Facebook developers [Embedded Posts documentation](https://developers.facebook.com/docs/plugins/embedded-posts/).
 
 ## Installation
