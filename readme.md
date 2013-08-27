@@ -8,7 +8,7 @@ To learn more, check out the Facebook developers [Embedded Posts documentation](
 
 ## Installation
 
-1. Download the zip file (or clone via git) and unzip it or clone the repo into `/_add-ons/`.
+1. Download the files, and copy them to `/_add-ons/facebook_embed`.
 2. Make sure that the folder name is `facebook_embed`.
 
 ## Usage
