@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Statamic Facebook Embed Plugin
 
 This plugin allows you to quickly & easily embed public Facebook Posts.
@@ -12,11 +11,11 @@ To learn more, check out the Facebook developers [Embedded Posts documentation](
 
 ## Usage
 
-## Tag
+### Tag
     
     {{ facebook_embed:post }}
 
-## Parameter
+### Parameter
 
 `url` (required)
 
@@ -24,12 +23,6 @@ This is the URL of the public Facebook Post you wish to embed.
 
 For example: `https://www.facebook.com/andrea.demers/posts/10152162695469815`
 
-## Example
+### Example
 
     {{ facebook_embed:post url="https://www.facebook.com/andrea.demers/posts/10152162695469815" }}
-=======
-statamic-facebook-embed
-=======================
-
-Statamic Facebook Embed
->>>>>>> f0d40c58da80336b877be4800b5d4471f36750af
