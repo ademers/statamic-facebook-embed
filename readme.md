@@ -1,6 +1,6 @@
 # Statamic Facebook Embed Plugin
 
-This plugin allows you to quickly & easily embed public Facebook Posts.
+This plugin allows you to quickly & easily embed public Facebook Posts into [Statamic](http://statamic.com)-powered websites.
 
 You can [see it in action](http://andreademers.com/statamic-facebook-embed-plugin) on my personal site, andreademers.com.
 
